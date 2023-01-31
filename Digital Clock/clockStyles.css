@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+}
+
+#letters {
+    color: greenyellow;
+    font-size: 200px;
+    margin-top: 5%;
+    margin-left: 20%;
+    position: relative;
+}
